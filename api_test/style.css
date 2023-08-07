@@ -1,0 +1,47 @@
+*{
+    
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    background-color: black; 
+    display: flex;
+    justify-content: center;
+    padding: 70px;
+    margin-top: 20px;
+    margin-left: 50vh;
+    margin-right: 50vh;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    
+    
+}
+
+span{
+    display: block;
+    text-align: center;
+    font-size: 75px;
+}
+p {
+   margin: auto;
+   color: white;
+    line-height: 35px;
+    font-size: 16px;
+    
+}
+button{
+    background-color: aquamarine;
+    display: block;
+    border-radius: 13px;
+    border: none;
+    padding: 5px;
+    box-shadow: 20px 20px 40px rgba(97, 63, 0,0.4 );  
+    margin: 0 auto; 
+    cursor: pointer;
+}
+h3{
+    font-size: medium;
+    font-style: oblique;
+    text-align: center;
+}
